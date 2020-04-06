@@ -1,0 +1,70 @@
+    form { 
+        border: 3px solid black; 
+        margin-right: 400px;
+        margin-left: 400px;
+        margin-top: 300px;
+        margin-bottom: 300px;
+        background-color: lightgrey;
+        border-style: inset;
+        border-radius: 15px;
+    }
+    input[type=email], 
+    input[type=password] {
+        width: 100%; 
+        display: inline-block; 
+        border: 2px black;
+        box-sizing: border-box; 
+        text-align: left;
+        border-radius: 1px;
+        height:35px;
+    } 
+    button { 
+        text-align: center;
+        background-color: green; 
+        color: white; 
+        border: 2px black; 
+        cursor: pointer; 
+        background-size: 40px;
+        border-radius: 5px;
+        height:25px;
+        
+    } 
+    .container { 
+        text-align: center;
+        background-color: lightblue; 
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;    
+        border-radius: 5px;
+    }
+    .details{
+        text-align: center;
+        background-color: lightgrey;
+        margin-right: 100px;
+        margin-left: 100px;
+        margin-top: 10px;
+        
+    } 
+    .container2{
+        text-align: center;
+        background-color: yellow;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+    .container3{
+        text-align: right;
+        padding-right: 100px;
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        background-color: lightgrey;
+    }
+    .container4{
+        margin-right: 40px;
+        margin-left: 40px;
+
+    }
+   
